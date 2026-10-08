@@ -20,7 +20,7 @@
 -- the engine.
 --
 -- v1.0.0 @VRCVS
--- llllllll.co/t/XXXXX
+-- llllllll.co/t/75615
 
 local musicutil = require "musicutil"
 
