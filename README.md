@@ -23,7 +23,7 @@ Snow falls, tears run down a stylised face. Every snowflake that hits the bottom
 
 ## Install
 
-From maiden: `;install https://github.com/YOUR-GITHUB-USER/NEVE`
+From maiden: `;install https://github.com/vrcvs/NEVE`
 (or find NEVE in the community catalog), then restart and load it from SELECT.
 
 ## Quick start
